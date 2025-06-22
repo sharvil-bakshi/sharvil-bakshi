@@ -45,31 +45,6 @@
 
 ---
 
-### 📂 Featured Projects
-
-Here are some of the projects I'm proud of:
-
-#### 🔗 [**Ad Network Backend System**](https://github.com/sharvil-bakshi/ad-network-backend)  
-A backend simulation of an ad-serving platform having APIs for advertisers, campaign management, bidding system, CTR prediction, and performance tracking.
-
-> 🛠 Tech Stack: Node.js, Express, MongoDB, JWT, Scheduler
-
----
-
-#### 🔗 [**Portfolio Website**](https://github.com/sharvil-bakshi/portfolio-v1)  
-Personal portfolio website showcasing my resume, GitHub projects, and tech stack.
-
-> 🌐 Deployed on: Vercel | Built with: HTML5, CSS, JS
-
----
-
-#### 🔗 [**Weather App**](https://github.com/sharvil-bakshi/weather-app)  
-Browser-based location-aware weather app using OpenWeatherMap API.
-
-> 🔧 Tech Stack: JavaScript, HTML, REST APIs
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
