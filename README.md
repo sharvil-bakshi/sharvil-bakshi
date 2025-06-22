@@ -1,18 +1,18 @@
 <h1 align="center">Hi, I'm Sharvil Bakshi 👋</h1>
 
 <p align="center">
-  <i>A problem solver, software developer, and tech enthusiast passionate about building scalable and elegant solutions.</i>
+  <i>Full Stack Developer | Innovator | Artist I</i>
 </p>
 
 ---
 
 ### 💻 About Me
 
-- 🔭 Currently exploring opportunities in **Software Development**, **Backend Engineering**, and **Full Stack Development**  
-- 🎓 Computer Science graduate with a solid foundation in **Data Structures, Backend Systems, and Software Architecture**
-- 🌱 Currently enhancing my knowledge in **System Design**, **Distributed Systems**, and **Modern Web Architectures**
+- 🔭 Currently exploring opportunities in **Software Development**  
+- 🎓 Information Technology graduate with a solid foundation in **Data Structures, Databases, and Cyber Security**
+- 🌱 Currently enhancing my knowledge in **Cloud**, **Frameworks**, and **Modern Web Technologies**
 - ⚡ Fascinated by real-time systems, clean code, automation, and performance optimization
-- 📍 Based in 🇮🇳 India | Always open to connect and collaborate!
+- 📍 Based in Nashik, Maharashtra, India | Always open to connect and collaborate!
 
 ---
 
