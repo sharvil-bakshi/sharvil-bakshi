@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharvil-bakshi&label=Profile%20views&color=0e75b6&style=flat" alt="sharvil-bakshi" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/sharvil-bakshi](https://github.com/sharvil-bakshi)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/sharvil-bakshi)
 
 - 📫 How to reach me **sharvilbakshi23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QgFoMzDww9Q_7NQfyOOTKH4m35LYiXbz/view?usp=sharing](https://drive.google.com/file/d/1QgFoMzDww9Q_7NQfyOOTKH4m35LYiXbz/view?usp=sharing)
+- 📄 Know about my experiences [Download My Resume](https://drive.google.com/file/d/1QgFoMzDww9Q_7NQfyOOTKH4m35LYiXbz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
