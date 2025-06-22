@@ -1,3 +1,4 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=sharvil-bakshi)
 <h1 align="center">Hi, I'm Sharvil Bakshi 👋</h1>
 
 <p align="center">
@@ -9,8 +10,8 @@
 ### 💻 About Me
 
 - 🔭 Exploring opportunities in **Software Development**  
-- 🎓 IT Engineer
-- 🌱 Learning **Cloud**, **Frameworks**, and **Modern Web Technologies**
+- 🎓 Graduation in BE | IT Engineering | 2024
+- 🌱 Learning **Cloud** | **Frameworks** | **Modern Web Technologies**
 - 📍 Nashik | Maharashtra | India
 
 ---
