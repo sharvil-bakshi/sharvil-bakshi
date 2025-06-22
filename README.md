@@ -8,11 +8,10 @@
 
 ### 💻 About Me
 
-- 🔭 Currently exploring opportunities in **Software Development**  
-- 🎓 Information Technology graduate with a solid foundation in **Data Structures, Databases, and Cyber Security**
-- 🌱 Currently enhancing my knowledge in **Cloud**, **Frameworks**, and **Modern Web Technologies**
-- ⚡ Fascinated by real-time systems, clean code, automation, and performance optimization
-- 📍 Based in Nashik, Maharashtra, India | Always open to connect and collaborate!
+- 🔭 Exploring opportunities in **Software Development**  
+- 🎓 IT Engineer
+- 🌱 Learning **Cloud**, **Frameworks**, and **Modern Web Technologies**
+- 📍 Nashik | Maharashtra | India
 
 ---
 
