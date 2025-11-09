@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Sharvil Bakshi 👋</h1>
 
 <p align="center">
-  <i>IT Engineer | Innovator | Cricket Player | Artist</i>
+  <i>Engineer | Public Speaker | Cricket Player | Artist</i>
 </p>
 
 ---
