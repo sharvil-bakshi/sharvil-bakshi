@@ -59,7 +59,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sharvil-bakshi?)
 - 💼 [Resume](https://drive.google.com/file/d/1QgFoMzDww9Q_7NQfyOOTKH4m35LYiXbz/view?usp=sharing)
-- ✉️ Email: `sharvilbakshi23@gmail.com`
+- ✉️ Email: [`sharvilbakshi23@gmail.com`](https://mail.google.com/mail/u/0/?ogbl#inbox?compose=DmwnWtMgBMlLRkgmDVCwhRPXKfHWZrRvSmrGSLPqLlxqcnjHpfPVlbmfkwlgSCMKVMRfjmwwfdrv)
 
 ---
 
