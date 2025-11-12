@@ -9,9 +9,9 @@
 
 ### 💻 About Me
 
-- 🔭 Exploring opportunities in **Software Development**  
+- 🔭 Exploring opportunities in **Software Development and Management**  
 - 🎓 Graduation in BE | IT Engineering | 2024
-- 🌱 Learning **Cloud** | **Frameworks** | **Modern Web Technologies**
+- 🌱 Learning **Clouds** | **Kaizen Philosophy** | **Data behind the Data!**
 - 📍 Nashik | Maharashtra | India
 
 ---
